@@ -34,4 +34,12 @@
         </plugins>
     </build>
 ```
-参考博客: [Assembly使用](https://blog.csdn.net/zhongzunfa/article/details/82465939)
+
+Linux 执行 main 方法
+```aidl
+java -cp xxx.jar com.assembly.Main
+```
+
+博客: [Assembly使用](https://blog.csdn.net/zhongzunfa/article/details/82465939)
+ 
+官方: [使用文档](https://maven.apache.org/plugins/maven-assembly-plugin/assembly.html)
